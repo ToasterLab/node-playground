@@ -1,0 +1,3 @@
+[submodule "3-scratchpad"]
+	path = 3-scratchpad
+	url = git@github.com:hueyy/node-scratchpad.git
