@@ -1,3 +1,12 @@
 [submodule "3-scratchpad"]
 	path = 3-scratchpad
 	url = git@github.com:hueyy/node-scratchpad.git
+[submodule "4-sg-hazometer"]
+	path = 4-sg-hazometer
+	url = https://github.com/ToasterLab/sg-hazometer.git
+[submodule "4-sg-bookfinder"]
+	path = 4-sg-bookfinder
+	url = git@github.com:ToasterLab/sg-bookfinder.git
+[submodule "5-sg-bookfinder"]
+	path = 5-sg-bookfinder
+	url = git@github.com:ToasterLab/sg-bookfinder.git
